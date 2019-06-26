@@ -6,3 +6,4 @@
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/colour-game)
 
 🎯 Test you RGB matching skills in this interactive web game!
+# → https://ianramzy.com/colour-game
